@@ -14,7 +14,7 @@ A student passionate about learning programming, data analysis, and problem-solv
 </br>
   
 - 🌱 **Learning:** Programming in Java and exploring data analysis with R.  
-- 💻 **Technical Interests:**  
+- 💻 **Technical Interests:** Data analysis, data science, programming, and problem-solving.
 - 📊 **Programming Languages:** C, C++, Java  
 - 📚 **Data Tools & Libraries:** Starting to learn R (Tidyverse, Viridis, HRBrThemes)  
 - 🔧 **Other Concepts:** Loops, strings, data types, control flow, and basic problem-solving techniques  
