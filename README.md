@@ -2,8 +2,12 @@
 
 A student passionate about learning programming, data analysis, and problem-solving. I enjoy exploring new technologies and building projects step by step.  
 
-
-
+</br>
+<div id="badges" align="center">
+  <img src=https://komarev.com/ghpvc/?username=alexbperry&style=flat-square&color=blue alt=""/>
+</div>
+</br>
+  
 - 🌱 **Learning:** Programming in Java and exploring data analysis with R.  
 - 💻 **Technical Interests:**  
 - 📊 **Programming Languages:** C, C++, Java  
