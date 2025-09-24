@@ -4,8 +4,13 @@ A student passionate about learning programming, data analysis, and problem-solv
 
 </br>
 <div id="badges" align="center">
-  <img src=https://komarev.com/ghpvc/?username=alexbperry&style=flat-square&color=blue alt=""/>
+  <img 
+    src="https://komarev.com/ghpvc/?username=alexbperry&style=for-the-badge&color=blueviolet" 
+    alt="Profile Views" 
+    height="150"
+  />
 </div>
+
 </br>
   
 - 🌱 **Learning:** Programming in Java and exploring data analysis with R.  
