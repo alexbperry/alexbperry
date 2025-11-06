@@ -18,7 +18,6 @@ A student passionate about learning programming, data analysis, and problem-solv
 - 📊 **Programming Languages:** C, C++, Java  
 - 📚 **Data Tools & Libraries:** Starting to learn R (Tidyverse, Viridis, HRBrThemes)  
 - 🔧 **Other Concepts:** Loops, strings, data types, control flow, and basic problem-solving techniques  
-- 👯 **Collaboration Interests:** Open to beginner-friendly coding projects and learning together.  
 - 💬 **Ask me about:** Programming basics, data analysis exploration, and college coursework.  
 - ⚡ **Fun Facts:**  
   - I’ve donated blood multiple times, even when it’s a bit scary.  
