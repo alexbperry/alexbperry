@@ -27,6 +27,6 @@ A student passionate about learning programming, data analysis, and problem-solv
 
 I’m always experimenting, learning, and growing through coding and data exploration.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexbperry&hide=stars,prs,issues,contribs&theme=dark)](https://github.com/alexbperry/github-readme-stats)
+[![Alex Perry's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexbperry&hide=stars,prs,issues&theme=dark)](https://github.com/alexbperry/github-readme-stats)
 
 
