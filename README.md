@@ -27,6 +27,6 @@ A student passionate about learning programming, data analysis, and problem-solv
 
 I’m always experimenting, learning, and growing through coding and data exploration.
 
-[![Alex Perry's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexbperry&hide=stars,prs,issues&theme=dark)](https://github.com/alexbperry/github-readme-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexbperry&layout=compact&theme=github_dark)
 
 
