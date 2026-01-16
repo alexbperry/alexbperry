@@ -16,8 +16,8 @@ A student passionate about learning programming, data analysis, and problem-solv
 - 🌱 **Learning:** Programming in Java and exploring data analysis with R.  
 - 💻 **Technical Interests:** Data analysis, data science, programming, and problem-solving.
 - 📊 **Programming Languages:** C, C++, Java  
-- 📚 **Data Tools & Libraries:** Starting to learn R (Tidyverse, Viridis, HRBrThemes)  
-- 🔧 **Other Concepts:** Loops, strings, data types, control flow, and basic problem-solving techniques  
+- 📚 **Data Tools & Libraries:** Starting to learn python for data visualization
+- 🔧 **Other Concepts:** Loops, strings, data types, and basic problem-solving techniques  
 - 💬 **Ask me about:** Programming basics, data analysis exploration, and college coursework.  
 - ⚡ **Fun Facts:**  
   - I’ve donated blood multiple times, even when it’s a bit scary.  
@@ -27,7 +27,8 @@ A student passionate about learning programming, data analysis, and problem-solv
 
 I’m always experimenting, learning, and growing through coding and data exploration.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexbperry)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexbperry&layout=compact&theme=github_dark&hide_border=true&langs_count=6)
+
 
 
 
